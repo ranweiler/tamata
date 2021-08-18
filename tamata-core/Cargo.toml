@@ -1,0 +1,9 @@
+[package]
+name = "tamata-core"
+version = "0.1.0"
+authors = ["Joe Ranweiler <joe@lemma.co>"]
+edition = "2018"
+license = "ISC"
+
+[dependencies]
+thiserror = "1.0"

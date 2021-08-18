@@ -1,0 +1,14 @@
+[package]
+name = "tamata-macros"
+version = "0.1.0"
+authors = ["Joe Ranweiler <joe@lemma.co>"]
+edition = "2018"
+license = "ISC"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+quote = "1.0"
+syn = { version = "1.0", features = ["extra-traits"] }
+tamata-core = { version = "0.1.0", path = "../tamata-core" }

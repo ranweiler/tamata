@@ -1,0 +1,10 @@
+[package]
+name = "tamata"
+version = "0.1.0"
+authors = ["Joe Ranweiler <joe@lemma.co>"]
+edition = "2018"
+license = "ISC"
+
+[dependencies]
+tamata-core = { version = "0.1.0", path = "./tamata-core" }
+tamata-macros = { version = "0.1.0", path = "./tamata-macros" }
