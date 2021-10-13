@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Joe Ranweiler <joe@lemma.co>"]
 edition = "2018"
 license = "ISC"
+repository = "https://github.com/ranweiler/tamata"
 
 [dependencies]
 tamata-core = { version = "0.1.0", path = "./tamata-core" }
