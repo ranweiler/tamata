@@ -1,6 +1,6 @@
 # Tamata 🍅
 
-A library for defining async finite state machines.
+A library for implementing event-driven finite state machines.
 
 ## License
 
