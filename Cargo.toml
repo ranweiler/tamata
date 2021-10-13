@@ -8,3 +8,6 @@ license = "ISC"
 [dependencies]
 tamata-core = { version = "0.1.0", path = "./tamata-core" }
 tamata-macros = { version = "0.1.0", path = "./tamata-macros" }
+
+[dev-dependencies]
+anyhow = "1.0"

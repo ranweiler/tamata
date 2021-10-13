@@ -10,5 +10,5 @@ proc-macro = true
 
 [dependencies]
 quote = "1.0"
-syn = { version = "1.0", features = ["extra-traits"] }
+syn = { version = "1.0", features = ["extra-traits", "full"] }
 tamata-core = { version = "0.1.0", path = "../tamata-core" }
