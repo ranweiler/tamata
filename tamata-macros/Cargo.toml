@@ -5,6 +5,7 @@ authors = ["Joe Ranweiler <joe@lemma.co>"]
 edition = "2018"
 license = "ISC"
 repository = "https://github.com/ranweiler/tamata"
+description = "A library for event-driven finite state machines"
 
 [lib]
 proc-macro = true
